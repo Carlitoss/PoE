@@ -1,0 +1,18 @@
+Partlist
+
+Exported from POE.sch at 12/04/2013 17:29:55
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device       Package      Library             Sheet
+
+F1                      SH22,5       SH22,5       fuse                1
+JP1                     PINHD-1X2/90 1X02/90      pinhead             1
+JP2                     PINHD-1X2/90 1X02/90      pinhead             1
+JP4                     PINHD-1X2    1X02         pinhead             1
+JP5                     PINHD-1X2    1X02         pinhead             1
+X1       RJ45-6L21-B    RJ45-6L21-B  RJ45-SHIELD1 con-tycoelectronics 1
+X2       RJ45-6L21-B    RJ45-6L21-B  RJ45-SHIELD1 con-tycoelectronics 1
+X3                      733980-62    733980-62    con-conrad          1

@@ -1,0 +1,25 @@
+Partlist
+
+Exported from Modulo-regulador.sch at 12/04/2013 17:30:35
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library    Sheet
+
+C1       470uF          CPOL-EUE3.5-8   E3,5-8       rcl        1
+C2       220uF          CPOL-EUE2.5-7   E2,5-7       rcl        1
+CFF                     C-EU025-030X050 C025-030X050 rcl        1
+D1       1N5825         BAT19           DO35-10      diode      1
+JACK                    733980-62       733980-62    con-conrad 1
+JP1                     PINHD-1X2/90    1X02/90      pinhead    1
+JP2                     PINHD-1X2/90    1X02/90      pinhead    1
+JP3                     PINHD-1X2/90    1X02/90      pinhead    1
+JP4                     PINHD-1X2/90    1X02/90      pinhead    1
+L1       47uH           L-EU0207/7      0207/7       rcl        1
+LM2596                  LM2596TV        TO220-51     linear     1
+PINES    22-23-2021     22-23-2021      22-23-2021   con-molex  1
+R1       1K             R-EU_0207/10    0207/10      rcl        1
+R2                      R-EU_0207/10    0207/10      rcl        1
+USB                     PN87520         PN87520      con-berg   1
