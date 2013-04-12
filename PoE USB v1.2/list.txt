@@ -1,0 +1,29 @@
+Partlist
+
+Exported from POE.sch at 11/04/2013 23:08:31
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library             Sheet
+
+C1       470uF          CPOL-EUE3.5-8   E3,5-8       rcl                 1
+C2       220uF          CPOL-EUE2.5-7   E2,5-7       rcl                 1
+C4       220uF          CPOL-EUE2.5-7   E2,5-7       rcl                 1
+D1       1N5824         BAT19           DO35-10      diode               1
+D2       1N5824         BAT19           DO35-10      diode               1
+IC1                     LM2596TV        TO220-51     linear              1
+IC2                     LM2596TV        TO220-51     linear              1
+JP1                     PINHD-1X2       1X02         pinhead             1
+JP2                     PINHD-1X2       1X02         pinhead             1
+JP3                     PINHD-1X2       1X02         pinhead             1
+JP4                     PINHD-1X2       1X02         pinhead             1
+JP5                     PINHD-1X2       1X02         pinhead             1
+L1       33uH           L-EU6000-XXX-RC 6000-XXXX-RC rcl                 1
+L2       33uH           L-EU6000-XXX-RC 6000-XXXX-RC rcl                 1
+X1       RJ45-6L21-B    RJ45-6L21-B     RJ45-SHIELD1 con-tycoelectronics 1
+X2       RJ45-6L21-B    RJ45-6L21-B     RJ45-SHIELD1 con-tycoelectronics 1
+X3                      733980-62       733980-62    con-conrad          1
+X4                      733980-62       733980-62    con-conrad          1
+X5                      PN87520         PN87520      con-berg            1
