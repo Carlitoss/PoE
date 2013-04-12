@@ -1010,12 +1010,12 @@ Distributor Conrad</description>
 <junction x="22.86" y="-24.13"/>
 <wire x1="22.86" y1="-24.13" x2="22.86" y2="-26.67" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="-26.67" x2="48.26" y2="-26.67" width="0.1524" layer="91"/>
+<pinref part="JP1" gate="G$1" pin="2"/>
 <wire x1="48.26" y1="-26.67" x2="48.26" y2="-20.32" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="-20.32" x2="48.26" y2="-8.89" width="0.1524" layer="91"/>
+<wire x1="48.26" y1="-8.89" x2="57.15" y2="-8.89" width="0.1524" layer="91"/>
 <pinref part="JP2" gate="G$1" pin="2"/>
 <wire x1="57.15" y1="-20.32" x2="48.26" y2="-20.32" width="0.1524" layer="91"/>
-<pinref part="JP2" gate="G$1" pin="1"/>
-<wire x1="48.26" y1="-20.32" x2="48.26" y2="-17.78" width="0.1524" layer="91"/>
-<wire x1="48.26" y1="-17.78" x2="57.15" y2="-17.78" width="0.1524" layer="91"/>
 <junction x="48.26" y="-20.32"/>
 </segment>
 </net>
@@ -1063,12 +1063,12 @@ Distributor Conrad</description>
 <segment>
 <pinref part="F1" gate="1" pin="1"/>
 <pinref part="JP1" gate="G$1" pin="1"/>
-<wire x1="34.29" y1="-6.35" x2="48.26" y2="-6.35" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="G$1" pin="2"/>
-<wire x1="48.26" y1="-6.35" x2="57.15" y2="-6.35" width="0.1524" layer="91"/>
-<wire x1="48.26" y1="-6.35" x2="48.26" y2="-8.89" width="0.1524" layer="91"/>
-<wire x1="48.26" y1="-8.89" x2="57.15" y2="-8.89" width="0.1524" layer="91"/>
-<junction x="48.26" y="-6.35"/>
+<wire x1="34.29" y1="-6.35" x2="49.53" y2="-6.35" width="0.1524" layer="91"/>
+<pinref part="JP2" gate="G$1" pin="1"/>
+<wire x1="49.53" y1="-6.35" x2="57.15" y2="-6.35" width="0.1524" layer="91"/>
+<wire x1="49.53" y1="-6.35" x2="49.53" y2="-17.78" width="0.1524" layer="91"/>
+<wire x1="49.53" y1="-17.78" x2="57.15" y2="-17.78" width="0.1524" layer="91"/>
+<junction x="49.53" y="-6.35"/>
 </segment>
 </net>
 </nets>
