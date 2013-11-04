@@ -1,7 +1,7 @@
 PoE
 ===
 
-PoE Extractor with regulable output voltages
+PoE Extractor with regulable output voltages.
 
 
 More info: [Carlitosspedia](http://www.carlitosspedia.info)
